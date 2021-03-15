@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: FreeBSD中文社区
 
 ### this variable is MarkDown form.
-description: FreeBSD GROUP。FreeBSD 讨论群。来到这里你可能什么也得不到。同样地，也将不会失去任何东西。FreeBSD OpenBSD NetBSD DragonFlyBSD 中文用户社区！恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。加入我们，共同推进FreeBSD 中国化与世界化！
+description: FreeBSD GROUP。FreeBSD 讨论群。<br>来到这里你可能什么也得不到。同样地，也将不会失去任何东西。<br>FreeBSD OpenBSD NetBSD DragonFlyBSD 中文用户社区！<br>恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。加入我们，共同推进FreeBSD 中国化与世界化！<br>tg群https://t.me/freebsdba
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -33,7 +33,7 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,8 +43,8 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
