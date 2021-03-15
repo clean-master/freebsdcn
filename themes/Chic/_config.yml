@@ -3,7 +3,7 @@ navname: FreeBSD 中文社区
 
 # navigatior items
 nav:
-  博文: /archives
+  文章: /archives
   分类: /category
   标签: /tag
   关于: /about
