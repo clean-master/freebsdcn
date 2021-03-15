@@ -64,14 +64,14 @@ FETCH_AFTER_ARGS=
 DISABLE_SIZE=yes
 进阶：如果不选择BATCH=yes 的方法手动配置依赖：
 看看python 的ports 在哪：
-# whereis python
+#whereis python
 python: /usr/ports/lang/pytho
 安装python3：
 #cd /usr/ports/lang/python
 如何设置全部所需的依赖：
-# make config-recursive
+#make config-recursive
 如何一次性下载所有需要的软件包：
-# make BATCH=yes fetch-recursive
+#make BATCH=yes fetch-recursive
 
 三.升级 ports collection
 
