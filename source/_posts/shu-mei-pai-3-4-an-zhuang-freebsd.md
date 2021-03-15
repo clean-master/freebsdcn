@@ -108,4 +108,4 @@ https://mirrors.huaweicloud.com/freebsd/snapshots/ISO-IMAGES/13.0/FreeBSD-13.0-C
 
 　　对于树莓派 3b+/4 来说，目前除了没有 WIFI，其余均正常使用。
 
-　　QQ 交流群 817507910
+　　FreeBSD 嵌入式/树莓派 QQ 交流群 817507910 Telegram https://t.me/freebsdba
