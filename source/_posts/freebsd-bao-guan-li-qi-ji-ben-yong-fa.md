@@ -39,7 +39,8 @@ pkg 升级：
 ---------------------------------------
 使用whereis 查询软件地址
 如#whereis python 回应：
-# whereis python
+#whereis python
+输出 
 python: /usr/ports/lang/python
 --------------------------------------------
 如何安装python3：
