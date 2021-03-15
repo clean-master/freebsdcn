@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: FreeBSD中文社区
 
 ### this variable is MarkDown form.
-description: FreeBSD GROUP。FreeBSD 讨论群。<br>来到这里你可能什么也得不到。同样地，也将不会失去任何东西。<br>FreeBSD OpenBSD NetBSD DragonFlyBSD 中文用户社区！<br>恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。加入我们，共同推进FreeBSD 中国化与世界化！<br>tg群https://t.me/freebsdba  QQ群731675387
+description: FreeBSD GROUP。FreeBSD 讨论群。<br>来到这里你可能什么也得不到。同样地，也将不会失去任何东西。<br>FreeBSD OpenBSD NetBSD DragonFlyBSD 中文用户社区！<br>恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。加入我们，共同推进FreeBSD 中国化与世界化！<br>tg群https://t.me/freebsdba  QQ群731675387<br><br><br>
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -63,7 +63,7 @@ post_author_enable: true
 post_date_enable: true
 post_category_enable: true
 ## Post copyright
-post_copyright_enable: true
+post_copyright_enable: false
 
 post_copyright_author_enable: true
 post_copyright_permalink_enable: true
