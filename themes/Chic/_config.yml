@@ -3,10 +3,10 @@ navname: FreeBSD 中文社区
 
 # navigatior items
 nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
-  About: /about
+  博文: /archives
+  分类: /category
+  标签: /tag
+  关于: /about
 
 # favicon
 favicon: /favicon.ico
