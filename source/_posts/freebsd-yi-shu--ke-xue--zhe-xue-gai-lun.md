@@ -72,7 +72,9 @@ tags:
 
 　　 FreeBSD 是免费获取的。
 
-　　 [下载地址] https://www.freebsd.org/zh_CN/where.html
+　　 [下载地址]
+   
+   https://www.freebsd.org/zh_CN/where.html
 
 　　版本选择，尽量选择较新版本，桌面用户可选择 current 版本。stable 和 current 都是开发版本，rc 和 beta 是预览版，release 是常规版本。不可以通过 freebsd-update 命令将 current 或 stable 直接切换到 release，反之亦不被允许。current stable 也不能通过 freebsd-update 直接更新。都需要重新下载源代码进行编译整个系统及内核来切换版本或更新系统。
 
@@ -84,7 +86,7 @@ tags:
 
 　　至于以 iso 结尾的，选择带有 DVD1 字样的。iso.xz 也需要解压。刻录光盘或加载至虚拟机使用。
 
-#  『 FreeBSD or Others 』
+#  『FreeBSD or Others 』
 
 　　①Linux
 
