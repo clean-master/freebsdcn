@@ -82,3 +82,19 @@ ifconfig wlan0 create wlandev ath0 wlanmode hostap
 #ifconfig wlan0 inet 192.168.0.1 netmask 255.255.255.0 ssid freebsdap mode 11g channel 1
 
 如果连不上或者搜不到调试信道或者WIFI区域码区域码选japan 然后china
+
+#   简单版本
+
+ee /boot/ loader.conf 　　
+
+ee是个编辑器
+
+中写入 rtwn_usb_load="YES"
+
+legal.realtek.license_ack=1
+
+在 /etc/ rc.conf 中写入
+
+wlans_rtwn0="wlan0"
+
+ifconfig_wlan0="WPA DHCP"
