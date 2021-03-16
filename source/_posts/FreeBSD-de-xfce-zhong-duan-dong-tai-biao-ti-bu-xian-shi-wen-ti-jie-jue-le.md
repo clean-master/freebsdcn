@@ -1,5 +1,5 @@
 ---
-title: FreeBSD 的xfce 终端动态标题不显示问题解决了：
+title: FreeBSD 的xfce 终端动态标题不显示问题解决了
 date: 2021-03-16 20:04:23
 tags:
 ---
