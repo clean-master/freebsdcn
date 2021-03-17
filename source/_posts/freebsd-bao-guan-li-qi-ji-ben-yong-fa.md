@@ -55,6 +55,7 @@ FETCH_CMD=axel
 FETCH_BEFORE_ARGS= -n 10 -a
 FETCH_AFTER_ARGS=
 DISABLE_SIZE=yes
+------------------------------------------------
 进阶：如果不选择BATCH=yes 的方法手动配置依赖：
 看看python 的ports 在哪：
 #whereis python
@@ -96,6 +97,7 @@ MAKE_JOBS_NUMBER=4
 写入/etc/make.conf
 没有就新建。4是处理器核心数，不知道就别改。 
 #其他见 /usr/ports/Mk/bsd.port.mk
+
 #   FreeBSD 如何安装软件
 
 1：概括
