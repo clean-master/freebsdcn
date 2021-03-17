@@ -47,14 +47,6 @@ python: /usr/ports/lang/python
 #cd /usr/ports/lang/python
 #make BATCH=yes clean
 其中BATCH=yes 的意思是使用默认配置
-------------------------------------------------------
-如何使用多核心编译？
-
-linux如gentoo上一般是直接 -jx 或者-jx+1 x为核心数。
-新建或者编辑/etc/make.conf文件，写入以下两行：
-FORCE_MAKE_JOBS=yes
-MAKE_JOBS_NUMBER=4
-#其他见 /usr/ports/Mk/bsd.port.mk
 ----------------------------------------------------
 如何使用多线程下载：
 #pkg install axel #下载多线程下载工具#
@@ -97,12 +89,13 @@ portmaster -a -m "BATCH=yes" 或者-D -G --no-confirm 都可以免除确认
 
 #    FreeBSD ports 多线程编译
 
+linux如gentoo上一般是直接 -jx 或者-jx+1 x为核心数。
 FreeBSD ports 多线程编译
 FORCE_MAKE_JOBS=yes
 MAKE_JOBS_NUMBER=4
 写入/etc/make.conf
 没有就新建。4是处理器核心数，不知道就别改。 
-
+#其他见 /usr/ports/Mk/bsd.port.mk
 #   FreeBSD 如何安装软件
 
 1：概括
