@@ -12,8 +12,6 @@ tags:
 
 　　目前开放的非官方 issue 镜像申请：
 
-　　目前开放的非官方 issue 镜像申请：
-
 USTC：
 
 https://github.com/ustclug/mirrorrequest/issues/172
