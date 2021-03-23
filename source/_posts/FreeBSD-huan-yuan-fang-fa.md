@@ -28,7 +28,7 @@ bjtu: {
  
 若要获取滚动更新的包,请将quarterly 修改为latest.请注意,CURRENT 版本只有latest.
 若要使用https,请先安装security/ca_root_nss,并将http 修改为https,最后使用命令#pkg update -f 刷新缓存即可.
-### 如果不能用，可以将域名freebsd-pkg.mirror.bjtulug.org 改为pkg.freebsd.cn 或 mirrors.ustc.edu.cn/freebsd-pkg 或 mirrors.163.com/freebsd-pkg/
+### 如果不能用，可以将域名freebsd-pkg.mirror.bjtulug.org 改为pkg.freebsd.cn 或 mirrors.ustc.edu.cn/freebsd-pkg 或 mirrors.163.com/freebsd-pkg
 
 #  ports源:提供源码方式安装软件的包管理器
 
@@ -38,7 +38,7 @@ bjtu: {
 
 MASTER_SITE_OVERRIDE?=http://freebsd-pkg.mirror.bjtulug.org/ports-distfiles/
 
-### 如果不能用，可以将域名freebsd-pkg.mirror.bjtulug.org 更改为 mirrors.163.com/freebsd-ports/ 或 ports.freebsd.cn/
+### 如果不能用，可以将域名freebsd-pkg.mirror.bjtulug.org 更改为 mirrors.163.com/freebsd-ports 或 ports.freebsd.cn
 
 #  portsnap源:打包的ports文件
 
