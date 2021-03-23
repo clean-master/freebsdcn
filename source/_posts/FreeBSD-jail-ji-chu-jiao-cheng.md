@@ -5,7 +5,7 @@ tags:
 ---
 
 #   创建jail目录
-#   放入基本系统
+##   放入基本系统
 
 方案一
 
@@ -20,7 +20,7 @@ tar -xvf base.txz -C /usr/jail/
 #挂载 devfs文件系统。(不是必须)
 mount -t devfs devfs /usr/jail/dev
 
-#   写入rc.conf
+##   写入rc.conf
 
 sysrc jail_enable="YES"
 创建jail.conf文件(可以写进rc.conf但这样便于管理)
@@ -67,13 +67,13 @@ freebsd-update -b /here/is/the/jail install
 
 #   ping与网络
 
-开启ping
+## 开启ping
 
 写入/etc/jail.conf
 allow.raw_sockets=1;
 allow.sysvipc=1;
 
-网络
+## 网络
 
 创建/etc/resolv.conf,并编辑
 
@@ -89,12 +89,12 @@ nameserver 223.6.6.6
 
 创建4个 分别是模板 骨架 数据 项目
 
-创建模板目录
+## 创建模板目录
 
 mkdir -p /jail/j1
 #然后放入基本目录，上边说过不再写
 
-创建骨架目录
+##  创建骨架目录
 
 mkdir -p /jail/j2
 #移动目录 etc usr tmp var root
@@ -104,16 +104,16 @@ mv /jail/j1/tmp ./tmp
 mv /jail/j1/var ./var
 mv /jail/j1/root ./root
 
-创建数据目录
+##  创建数据目录
 
 就是复制一份骨架给他用
 cp -R /jail/j2/ /jail/js/www/
 
-创建项目目录
+##  创建项目目录
 
 mkdir -p /jail/www/
 
-建立链接
+##  建立链接
 
 cd /jail/j1             #cd 到模板目录
 mkdir -p jusr           #创建用来做链接数据的目录
@@ -125,7 +125,7 @@ ln -s jusr/tmp tmp
 ln -s jusr/var var
 #链接目录，注意链接的目录
 
-创建fstab
+##  创建fstab
 vim /jail/www.fstab
 #将公共只读系统挂载到项目目录
 /jail/j1/              /jail/www/       mullfs    ro  0   0
