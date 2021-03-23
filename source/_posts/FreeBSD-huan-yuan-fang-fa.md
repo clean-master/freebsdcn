@@ -38,7 +38,7 @@ bjtu: {
 
 MASTER_SITE_OVERRIDE?=http://freebsd-pkg.mirror.bjtulug.org/ports-distfiles/
 
-## 如果不能用，可以将域名freebsd-pkg.mirror.bjtulug.org 更改为 https://mirrors.163.com/freebsd-ports/ 或 http://ports.freebsd.cn/
+### 如果不能用，可以将域名freebsd-pkg.mirror.bjtulug.org 更改为 https://mirrors.163.com/freebsd-ports/ 或 http://ports.freebsd.cn/
 
 #  portsnap源:打包的ports文件
 
@@ -50,7 +50,7 @@ MASTER_SITE_OVERRIDE?=http://freebsd-pkg.mirror.bjtulug.org/ports-distfiles/
 
 #portsnap fetch extract
 
-## 如果不能用，可以将域名freebsd-portsnap.mirror.bjtulug.org 改为 portsnap.freebsd.cn
+### 如果不能用，可以将域名freebsd-portsnap.mirror.bjtulug.org 改为 portsnap.freebsd.cn
 
 #  freebsd-update源:提供基本系统更新
 
@@ -58,7 +58,7 @@ MASTER_SITE_OVERRIDE?=http://freebsd-pkg.mirror.bjtulug.org/ports-distfiles/
 
 将 ServerName update.FreeBSD.org 修改为 ServerName freebsd-update.mirror.bjtulug.org
 
-## 如果不能用，可以将域名 freebsd-update.mirror.bjtulug.org 改为 update.freebsd.cn
+### 如果不能用，可以将域名 freebsd-update.mirror.bjtulug.org 改为 update.freebsd.cn
 ## 例:从FreeBSD 12 升级到13.0
 
 #freebsd-update -r 13.0-RELEASE upgrade
