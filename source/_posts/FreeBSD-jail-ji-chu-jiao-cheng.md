@@ -176,3 +176,8 @@ www {
 
 #替换全局
 }
+
+#   删除文件没有权限
+chflags -R noschg directory
+
+转载自https://www.moebsd.cn/post/FreeBSD%20jail%202.html
