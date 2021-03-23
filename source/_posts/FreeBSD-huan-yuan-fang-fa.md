@@ -59,6 +59,7 @@ MASTER_SITE_OVERRIDE?=http://freebsd-pkg.mirror.bjtulug.org/ports-distfiles/
 将 ServerName update.FreeBSD.org 修改为 ServerName freebsd-update.mirror.bjtulug.org
 
 ### 如果不能用，可以将域名 freebsd-update.mirror.bjtulug.org 改为 update.freebsd.cn
+### 请注意，非一级架构、stable以及current 均不能使用 freebsd-update，只能通过源代码方式更新系统。
 ## 例:从FreeBSD 12 升级到13.0
 
 #freebsd-update -r 13.0-RELEASE upgrade
