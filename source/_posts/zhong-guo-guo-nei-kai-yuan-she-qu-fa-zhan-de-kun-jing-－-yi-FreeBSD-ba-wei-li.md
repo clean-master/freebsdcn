@@ -5,18 +5,14 @@ tags:
 ---
 
 #  摘要：
-伴随着国际国内形势的变动，加之以第三次科技革命，计算机科学技术飞速发展。开源产业渐渐成为朝阳产业，Intel，Google，Facebook 甚至扬言开源是毒瘤的 Microsoft 也开始搞起来了开源项目。但是
-
-中国国内的开源社区却陷入了麻烦。遭遇了访问量下降，技术性教程滑坡的困境。
+伴随着国际国内形势的变动，加之以第三次科技革命，计算机科学技术飞速发展。开源产业渐渐成为朝阳产业，Intel，Google，Facebook 甚至扬言开源是毒瘤的 Microsoft 也开始搞起来了开源项目。但是中国国内的开源社区却陷入了麻烦。遭遇了访问量下降，技术性教程滑坡的困境。
 
 其中我们选取了 FreeBSD 吧作为例子，以具体说明中国开源社区的困境所在。
 
 #  关键字：开源，社区，FreeBSD，百度贴吧
 
 #   Abstract:
-Accompany by the development of international and domestic situations . And with the development of computer science and technology improved , the open source project gradually becomes an uprising industry . Intel ,  Google and Facebook also support it now . And even Microsoft that disagreed with open source is also making many open source projects in recent years.
-
-But many open source communities are in trouble . For example , none visits  them , There is no longer a reading article here .
+Accompany by the development of international and domestic situations . And with the development of computer science and technology improved , the open source project gradually becomes an uprising industry . Intel ,  Google and Facebook also support it now . And even Microsoft that disagreed with open source is also making many open source projects in recent years. But many open source communities are in trouble . For example , none visits  them , There is no longer a reading article here .
 
 In this way , we have to select FreeBSD ba to think about what their trouble is and how to help them get out of trouble .
 
