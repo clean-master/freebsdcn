@@ -32,3 +32,5 @@ setenv MM_CHARSET zh_CN.UTF-8
 　　在 root 用户下 rime 不会自动被添加到输入法，需要手动添加完成初始化！
 
 　　SLIM 窗口下会提示IBUS 找不到……疑似bug。
+
+我的博客即将同步至 OSCHINA 社区，这是我的 OSCHINA ID：FreeBSD中文社区，邀请大家一同入驻：https://www.oschina.net/sharing-plan/apply
