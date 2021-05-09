@@ -10,6 +10,8 @@ tags:
 
 接下来挂载ada0 磁盘上的EFI分区到FreeBSD 的/mnt/efi:  mount  -t  msdosfs  /dev/ada0p2   /mnt/efi
 
+为FreeBSD 引导性创建EFI 路径下的目录: mkdir /mnt/efi/EFI/freebsd
+
 然后复制启动文件到该路径cp /boot/boot1.efi  /mnt/efi/EFI/freebsd/bootx64.efi
 
 最后生成启动项：efibootmgr -c  -l  /mnt/efi/EFI/freebsd/bootx64.efi  -L  "FreeBSD niu pi"
