@@ -68,7 +68,7 @@ pkg install git
 git clone https://gitee.com/ykla/Linux-QQ.git
 
 其余步骤自行参考。
-境外用户可以使用githun： https://github.com/ykla/FreeBSD-Linux-QQ
+境外用户可以使用github： https://github.com/ykla/FreeBSD-Linux-QQ
 
 #### 4、刷新gtk 缓存：
 
