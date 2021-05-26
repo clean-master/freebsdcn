@@ -69,6 +69,7 @@ git clone https://gitee.com/ykla/Linux-QQ.git
 
 其余步骤自行参考。
 
+境外用户可使用github，地址：https://github.com/ykla/Linux-QQ
 
 #### 4、刷新gtk 缓存：
 
