@@ -59,7 +59,7 @@ rpm2cpio < fcitx-gtk2-4.2.9.6-1.el7.x86_64.rpm | cpio -id
 
 rpm2cpio < /home/work/fcitx-4.2.9.6-1.el7.x86_64.rpm | cpio -id
 
-注意：为了方便境内FreeBSD 用户，可以使用境内的gitee 同步下载以上三个文件；
+注意：为了方便，可以使用github 同步下载以上三个文件及QQ；
 
 cd /home/work
 
@@ -69,7 +69,6 @@ git clone https://github.com/ykla/FreeBSD-Linux-QQ
 
 其余步骤自行参考。
 
-境外用户可使用github，地址：https://github.com/ykla/Linux-QQ
 
 #### 4、刷新gtk 缓存：
 
