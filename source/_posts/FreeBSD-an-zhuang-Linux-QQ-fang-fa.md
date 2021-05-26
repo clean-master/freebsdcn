@@ -1,6 +1,6 @@
 ---
 title: FreeBSD 安装 Linux QQ 方法
-date: 2021-05-36 18:04:29
+date: 2021-05-26 18:04:29
 tags:
 ---
 
