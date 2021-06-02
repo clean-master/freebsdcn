@@ -15,6 +15,6 @@ pkg install zh-ibus-rime
  
 ##   98 五笔码表 下载地址
 
-https://gitee.com/ykla/free-bsd-98wubi-tables/treeQQ /master/
+https://gitee.com/ykla/free-bsd-98wubi-tables/tree/master/
 
 #  贡献作者 QQ 249966397
