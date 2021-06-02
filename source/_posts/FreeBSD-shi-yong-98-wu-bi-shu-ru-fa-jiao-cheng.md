@@ -4,6 +4,8 @@ date: 2021-06-02 22:54:39
 tags:
 ---
 
+###   注意：该教程可能仅适用于GNOME 桌面
+
 #   安装
 pkg install zh-ibus-rime
 
