@@ -38,4 +38,4 @@ echo ". /usr/local/etc/xdg/xfce4/xinitrc" > ~/.xinitrc
 echo ". /usr/local/etc/xdg/xfce4/xinitrc" > ~/.xsession
 根据条件使用
 
-本文链接：https://www.moebsd.cn/post/freebsd-install-xfce.html 
+本文链接：https://www.moebsd.cn/post/freebsd-install-xfce.html
