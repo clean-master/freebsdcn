@@ -4,6 +4,8 @@ date: 2021-03-16 00:50:20
 tags:
 ---
 
+注意：该教程仅在KDE5 下测试通过。
+
 在.cshrc 和/etc/csh.cshrc 中进行如下配置，此配置可以解决部分窗口fcitx 无效的问题。
 
 setenv QT4_IM_MODULE fcitx
