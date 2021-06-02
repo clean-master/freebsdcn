@@ -6,6 +6,7 @@ tags:
 
 　　Fcitx5 上线 FreeBSD
 
+注意：该教程仅在KDE5 下测试通过。
 
 textproc/fcitx5
 textproc/fcitx5-qt
