@@ -1,6 +1,6 @@
 ---
 title: FreeBSD 安装KDE5 桌面
-date: 2021-03-23 13:48:11
+date: 2021-06-02 16:19:35
 tags:
 ---
 
@@ -36,20 +36,7 @@ reboot
 点击开始->System Settings->Regional Settings 在Language项的Available Language栏中找到“简体中文”单击“>”将其加到 Preferrred Languages栏中，然后单击Apply按钮；再到Formats项，将Region文本框中的内容修改为“中国-简体中文(zh-CN)，单击Apply按钮，logout（注销）后重新登录，此时系统语言将变为中文。
 
 ##   中文输入法安装
-pkg install -y zh-fcitx zh-fcitx-configtool zh-fcitx-ui-light zh-fcitx-chewing zh-fcitx-libpinyin
-
-安装完后（.config文件下没有autostart文件夹得话，要新建autostart文件夹）
-cp /usr/local/share/applications/fcitx.desktop ~/.config/autostart/
-
-还要在.cshrc 和 /etc/csh.cshrc 中进行如下配置，此配置可以解决部分窗口 fcitx 无效以及无法输入显示中文的问题。
-setenv QT4_IM_MODULE fcitx
-setenv GTK_IM_MODULE fcitx
-setenv QT_IM_MODULE fcitx
-setenv GTK2_IM_MODULE fcitx
-setenv GTK3_IM_MODULE fcitx
-setenv XMODIFIERS @im=fcitx
-setenv LANG zh_CN.UTF-8
-setenv MM_CHARSET zh_CN.UTF-8
+见其他教程。
 
 #   本文贡献者 QQ 雨天 2477294049
  
