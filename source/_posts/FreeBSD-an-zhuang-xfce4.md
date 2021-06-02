@@ -61,4 +61,4 @@ pkg install thunderbird(邮件客户端)
 pkg install wqy-fonts（安装文泉驿字体）
 pkg install transmission (BT下载工具)
 
-本文链接：https://www.moebsd.cn/post/freebsd-install-xfce.html
+#   本文贡献者 QQ 雨天 2477294049
