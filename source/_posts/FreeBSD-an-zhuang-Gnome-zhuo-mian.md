@@ -37,7 +37,7 @@ pkg install drm-fbsd12.0-kmod
 #nvidia_load="YES"
 
 #   中文化GNOME
-ee locale.conf文件添加(/usr/local/etc/gdm/目录)添加以下内容
+ee locale.conf 文件添加(/usr/local/etc/gdm/ 目录)添加以下内容
 LANG="zh_CN.UTF-8"
 LC_CTYPE="zh_CN.UTF-8"
 LC_MESSAGES="zh_CN.UTF-8"
@@ -61,12 +61,12 @@ setenv LC_ALL zh_CN.UTF-8
 gnome-tweaks
  
 #   安装其他软件
-pkg install -y firefox（火狐浏览器）
-pkg install -y smplayer (视频播放器)
-pkg install -y zh_CN-libreoffice(中文版办公软件)
-pkg install -y gimp(图片处理)
-pkg install -y thunderbird(邮件客户端)
-pkg install -y transmission (BT下载工具)
-pkg install -y system-config-printer(帮助添加打印机)
+pkg install -y firefox （火狐浏览器）
+pkg install -y smplayer  (视频播放器)
+pkg install -y zh_CN-libreoffice  (中文版办公软件)
+pkg install -y gimp  (图片处理)
+pkg install -y thunderbird  (邮件客户端)
+pkg install -y transmission  (BT下载工具)
+pkg install -y system-config-printer  (帮助添加打印机)
 
 #   本文贡献者 QQ 雨天 2477294049
