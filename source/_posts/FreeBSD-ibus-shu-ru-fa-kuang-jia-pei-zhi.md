@@ -6,7 +6,7 @@ tags:
 
 FreeBSD ibus 输入法框架配置
 
-注意：该教程仅在XFCE桌面下测试通过。不适用于KDE5。
+注意：该教程仅在XFCE 桌面下测试通过。不适用于KDE5。
 
 　　ibus输入法框架配置.xinitrc 中增加
 XIM=ibus; export XIM
