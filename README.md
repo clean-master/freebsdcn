@@ -5,7 +5,7 @@ QQ 群 731675387
 
 嵌入式/树莓派 QQ 群 817507910
   
-https://freebsdcn.org  
+社区：https://freebsdcn.org  
   
 Telegram 群 https://t.me/freebsdba
 
