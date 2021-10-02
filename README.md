@@ -5,6 +5,8 @@ QQ 群 731675387
 
 嵌入式/树莓派 QQ 群 817507910
   
+https://freebsdcn.org  
+  
 Telegram 群 https://t.me/freebsdba
 
 由于微信群的封闭性，微信群需要先进QQ 群后，由管理员发送新鲜二维码方可加入。
