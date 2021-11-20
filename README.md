@@ -4,6 +4,8 @@
 QQ 群 731675387   
 
 嵌入式/树莓派 QQ 群 817507910
+
+社区协作 FreeBSD 入门参考书籍 https://book.freebsdcn.org
   
 社区：https://freebsdcn.org  
   
