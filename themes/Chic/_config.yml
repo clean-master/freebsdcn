@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: FreeBSD 中文社区
 
 ### this variable is MarkDown form.
-description: 来到这里你可能什么也得不到。同样地，也将不会失去任何东西。<br>恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。 <br>加入我们，共同推进FreeBSD 中国化与世界化！<br>Telegram 群https://t.me/freebsdba  QQ 群319271312<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br><br>FreeBSD 入门书籍 https://book.bsdcn.org<br><br><br>
+description: 来到这里你可能什么也得不到。同样地，也将不会失去任何东西。<br>恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。 <br>加入我们，共同推进FreeBSD 中国化与世界化！<br>Telegram 群https://t.me/freebsdba  QQ 群319271312<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br>FreeBSD 入门书籍 https://book.bsdcn.org<br><br><br>
 avatar: /image/avatar.jpg
 
 # main menu navigation
