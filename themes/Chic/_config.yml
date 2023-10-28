@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: FreeBSD 中文社区
 
 ### this variable is MarkDown form.
-description: 来到这里你可能什么也得不到。同样地，也将不会失去任何东西。<br>恪守古老的法则，追寻真正的自由。BSD 方为真正UNIX 哲学继承者。 <br>加入我们，共同推进FreeBSD 中国化与世界化！<br>Telegram 群https://t.me/freebsdba  QQ 群905149943<br>社区协作 Handbook 翻译 https://handbook.freebsdcn.org<br><br>FreeBSD 入门书籍 https://book.freebsdcn.org<br><br><br>
+description: FreeBSD 是真正自由的操作系统，在这个大流变的世界中仍然坚守 BSD UNIX 哲学。<br>恪守古老的法则，追寻真正的自由。 <br>加入我们，共同推进 FreeBSD 之中国化与亚洲化。FreeBSD 绝不大败亡！！<br>Telegram 群https://t.me/freebsdba  QQ 群 787969044<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br>FreeBSD 入门书籍 https://book.bsdcn.org<br>公众号 FreeBSD中文<br><br><br>
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -70,7 +70,7 @@ post_copyright_permalink_enable: true
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: QQ 群 731675387
+post_copyright_slogan_text: QQ 验证群 787969044
 ## toc
 post_toc_enable: true
 
