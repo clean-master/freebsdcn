@@ -15,7 +15,7 @@ favicon: /favicon.ico
 nickname: FreeBSD 中文社区
 
 ### this variable is MarkDown form.
-description: FreeBSD 是真正自由的操作系统，在这个大流变的世界中仍然坚守 BSD UNIX 哲学。<br>恪守古老的法则，追寻真正的自由。<br> 我们必须团结起来做些什么事情，无论大小，哪怕只是谈谈自己的学习体会（但并非出于炫耀）。否则如果只是夸夸其谈的话，我们和那些只会吹牛逼的、只会键政的、互称大佬的群或社区有任何区别吗？如果没有区别，那就没有任何意义，那么我宁愿这个社区不再存在。如果大家有时间有精力的话可以考虑翻译文档，如果会编程的话可以考虑移植软件到 BSD，如果能力更高甚至可以参与系统开发。<br>加入我们，共同推进 FreeBSD 之中国化与亚洲化。FreeBSD 绝不大败亡！！<br>Telegram 群https://t.me/freebsdba  QQ 群 787969044<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br>FreeBSD 入门书籍 https://book.bsdcn.org<br>公众号 FreeBSD中文<br><br><br>
+description: FreeBSD 是真正自由的操作系统，在这个大流变的世界中仍然坚守 BSD UNIX 哲学。<br>恪守古老的法则，追寻真正的自由。<br> 我们必须团结起来做些什么事情，无论大小，哪怕只是谈谈自己的学习体会（但并非出于炫耀）。否则如果只是夸夸其谈的话，我们和那些只会吹牛逼的、只会键政的、互称大佬的群或社区有任何区别吗？<br>如果没有区别，那就没有任何意义，那么我宁愿这个社区不再存在。如果大家有时间有精力的话可以考虑翻译文档，如果会编程的话可以考虑移植软件到 BSD，如果能力更高甚至可以参与系统开发。<br>加入我们，共同推进 FreeBSD 之中国化与亚洲化。FreeBSD 绝不大败亡！！<br>Telegram 群https://t.me/freebsdba  QQ 群 787969044<br>社区协作 Handbook 翻译 https://handbook.bsdcn.org<br>FreeBSD 入门书籍 https://book.bsdcn.org<br>公众号 FreeBSD中文<br><br><br>
 avatar: /image/avatar.jpg
 
 # main menu navigation
