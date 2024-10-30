@@ -4,8 +4,8 @@
    
 QQ 群 787969044
   
-社区：https://bsdcn.org  
+社区：<https://bsdcn.org>
   
-Telegram 群 https://t.me/freebsdba
+Telegram 群 <https://t.me/oh_my_BSD>
 
 由于微信群的封闭性，微信群需要先进 QQ 群后，由管理员发送新鲜的二维码方可加入。
